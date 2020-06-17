@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "balena-hal": "balena-io-playground/balena-hal-nodejs-experiment"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
